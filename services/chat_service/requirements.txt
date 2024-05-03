@@ -1,0 +1,11 @@
+fastapi==0.110.1 
+pydantic-settings==2.2.1 
+uvicorn
+flask
+sqlalchemy
+sqlalchemy_utils
+Flask-SQLAlchemy
+mysql-connector-python
+python-dotenv
+requests
+flask-cors
