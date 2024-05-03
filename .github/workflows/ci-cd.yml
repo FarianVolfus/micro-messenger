@@ -47,7 +47,7 @@ jobs:
           docker-compose build
           docker-compose push
 
-
+# вот для ci-cd
  build-and-push-to-yc:
     name: Build and push to YandexCloud Registry
     runs-on: ubuntu-latest
